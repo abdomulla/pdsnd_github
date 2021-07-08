@@ -10,8 +10,8 @@ github project 3 abdulhay
 This the Third project for Abdulhay 
 
 ### Files used
-Include the files used
+bikeshare.py, chicago.csv, new_york_city.csv and washington.csvd
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+i used multible resources avialble, such as google, github and udacity videos and this link https://knowledge.udacity.com/questions/597110d.
 
